@@ -13,4 +13,4 @@ Eg. `compress.exe path/to/image compressed.out`.
 Eg. `decompress.c compressed.out decompressed.bmp`.
 
 # Credits
-`bmp.h` was taken from [CS50's Introduction to Computer Science with Python](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x).
+`bmp.h` was taken from [CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x).
